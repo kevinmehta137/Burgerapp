@@ -1,0 +1,13 @@
+.background {
+    background: orange;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#burger-title {
+    text-align: center;
+}
